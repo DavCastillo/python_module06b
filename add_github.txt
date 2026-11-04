@@ -1,0 +1,4 @@
+capacitor.py:11: error: "Creature" has no attribute "transform"  [attr-defined]
+capacitor.py:13: error: "Creature" has no attribute "revert"  [attr-defined]
+capacitor.py:18: error: "Creature" has no attribute "transform"  [attr-defined]
+capacitor.py:20: error: "Creature" has no attribute "revert"  [attr-defined]
